@@ -1,0 +1,7 @@
+screenshots/
+videos/
+node_modules/
+plugins/
+.idea
+package-lock.json
+
